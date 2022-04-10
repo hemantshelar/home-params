@@ -19,5 +19,8 @@ Azure Account
 settings-> exclude files.
 
 
+Classic hosting model vs .net 6 ( minimal hosting model)
+
+
 
 
